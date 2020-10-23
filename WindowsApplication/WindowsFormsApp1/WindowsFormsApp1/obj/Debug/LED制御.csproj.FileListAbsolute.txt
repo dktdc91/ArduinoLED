@@ -1,0 +1,10 @@
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.csprojAssemblyReference.cache
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.csproj.GenerateResource.cache
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.csproj.CoreCompileInputs.cache
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LED制御.exe.config
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LED制御.exe
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LED制御.pdb
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.Properties.Resources.resources
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.exe
+C:\Users\skensyu01\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LED制御.pdb
